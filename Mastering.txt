@@ -1,3 +1,18 @@
 Hi
 This is the first public Repo for Practice
 first commit After creating the Repo
+
+Git commands:
+
+>git init - creates .git in the dir
+>git add . - addes the newly created file to the dir
+>git commit -m "Message" - Saves that exact point with the 			  message
+>git status - Shows the current status of the dir
+>git log - shows the date and time of created commit
+>git add remote origin server_repo_url - link local Repo to 					the server
+>git push -u origin master - Pushes the Repo to the server
+>git clone server_Repo_url - clones the repo
+>git log --pretty=oneline - shows the logs in oneline
+>git reset --soft - removes the commits after the given 		    code
+
+
